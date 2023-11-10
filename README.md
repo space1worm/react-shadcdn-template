@@ -25,7 +25,7 @@ To run this application and have a great developer experience at the same time, 
 
 src/index.tsx
 
-### In this template source directory you can find
+### In this template's source directory, you can find
 
 - Components
 - Providers
