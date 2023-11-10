@@ -20,12 +20,13 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
 
-    /* alias */
+    /* Alias */
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
     }
   },
-  "include": ["src"],
+  "include": ["src", "./tailwind.config.js", "./postcss.config.js"],
+  "exclude": ["node_modules", "dist", "build", "scripts", "tests", "coverage"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
