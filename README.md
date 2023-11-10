@@ -4,7 +4,7 @@ This template provides a minimal setup to get React working in Vite with HMR.
 
 ### Requiremenets
 
-To run this application and have great developer experience at the same time, you need to install node version 18 or higher.
+To run this application and have a great developer experience at the same time, you need to install node version 18 or higher.
 
 ### Main Packages
 
